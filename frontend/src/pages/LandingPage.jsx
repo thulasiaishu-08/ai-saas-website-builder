@@ -7,7 +7,7 @@ const features = [
   { icon: 'bi-phone-fill', title: 'Fully Responsive', desc: 'Every generated site looks perfect on mobile, tablet, and desktop.', color: '#10b981' },
   { icon: 'bi-graph-up-arrow', title: 'Built-in Analytics', desc: 'Track visitor counts and contact requests right from your dashboard.', color: '#ef4444' },
   { icon: 'bi-envelope-fill', title: 'Contact Forms', desc: 'Every site comes with a working contact form. Messages delivered to your inbox.', color: '#8b5cf6' },
-  { icon: 'bi-shield-check-fill', title: 'Secure & Fast', desc: 'JWT auth, bcrypt passwords, and optimized React rendering.', color: '#0ea5e9' },
+  { icon: 'bi-shield-lock-fill', title: 'Secure & Fast', desc: 'JWT auth, bcrypt passwords, and optimized React rendering.', color: '#0ea5e9' },
 ];
 
 const templates = [
