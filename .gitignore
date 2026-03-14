@@ -1,0 +1,8 @@
+# Ignore node_modules everywhere
+node_modules/
+
+# Ignore Vite build cache
+/frontend/node_modules/.cache/
+
+# Ignore dist folders (optional, but sometimes useful)
+dist/
