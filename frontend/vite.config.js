@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 5173,
+    base: 'https://github.com/thulasiaishu-08/ai-saas-website-builder.git',
     proxy: {
       '/api': {
         target: 'http://localhost:5000',
