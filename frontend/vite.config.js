@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ai-saas-website-builder/',
   server: {
     port: 5173,
     proxy: {
